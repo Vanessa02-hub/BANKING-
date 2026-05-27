@@ -1,0 +1,54 @@
+run:
+=====Welome to Zenith Digital Bank=====
+Enter UserName: admin
+Enter password: 1234
+Login successful
+==========MAIN MENU==========
+Enter 1 to Deposit
+Enter 2 to Withdraw
+Enter 3 to send cash
+Enter 4 to check balance
+1
+Enter deposit amount R: 23
+Deposit successful!
+New Balance: R6023.0
+==========MAIN MENU==========
+Enter 1 to Deposit
+Enter 2 to Withdraw
+Enter 3 to send cash
+Enter 4 to check balance
+2
+Enter withdrawal amount: 234567
+You have insufficient funds
+==========MAIN MENU==========
+Enter 1 to Deposit
+Enter 2 to Withdraw
+Enter 3 to send cash
+Enter 4 to check balance
+2
+Enter withdrawal amount: 200
+Withdrawal successful!
+New Balance is: R5823.0
+==========MAIN MENU==========
+Enter 1 to Deposit
+Enter 2 to Withdraw
+Enter 3 to send cash
+Enter 4 to check balance
+3
+Enter Recipient Name: ble
+Enter Amount: R300
+Transfer to ble was successful
+New Balance is: R5523.0
+==========MAIN MENU==========
+Enter 1 to Deposit
+Enter 2 to Withdraw
+Enter 3 to send cash
+Enter 4 to check balance
+4
+Account holder: admin
+Current balance: R5523.0
+==========MAIN MENU==========
+Enter 1 to Deposit
+Enter 2 to Withdraw
+Enter 3 to send cash
+Enter 4 to check balance
